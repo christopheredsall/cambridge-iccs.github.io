@@ -288,7 +288,7 @@ This session will serve as an introduction to the OpenMP programming model for G
 <ul>
 <li>As we will be running the practical exercises on the Cambridge HPC system, basic linux shell knowledge is expected.</li>
 
-<li>Expect basis programming skills and the ability to read C or Fortran-style code, and the ability to compile and run code on systems using Makefiles.</li>
+<li>Expect basic programming skills and the ability to read C or Fortran-style code, and the ability to compile and run code on systems using Makefiles.</li>
 
 <li>Some familiarity with GPU programming is beneficial but not essential</li>
 </ul>
